@@ -50,6 +50,6 @@ Thank you again for your support! 🙏
 
 ---
 
-I hope you enjoy using Stroll & Groove and that it provides you with a unique and immersive way to explore places around the world. Happy strolling and grooving! 🥾🎒
+I hope you enjoy using VRWanderWorld and that it provides you with a unique and immersive way to explore places around the world. Happy strolling and grooving! 🥾🎒
 
 Further recommendations are welcome! Let me know which places you'd like to see next 🌃
