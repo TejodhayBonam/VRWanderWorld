@@ -32,11 +32,11 @@ Contributions to Stroll & Groove are welcome! If you would like to contribute to
 
 ## License
 
-Stroll & Groove is a project licensed under the MIT License. 
+VRWanderWorld is a project licensed under the MIT License. 
 
 ## Acknowledgements
 
-Stroll & Groove was inspired by the popular 'Drive & Listen' project, which allowed users to explore the world from the comfort of their homes. 🚶🎶
+VRWanderWorld was inspired by the popular 'Drive & Listen' project, which allowed users to explore the world from the comfort of their homes. 🚶🎶
 
 ## Show Your Support 🤝
 
