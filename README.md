@@ -1,12 +1,12 @@
- # 04/06/23 RR12 Ramble with Rami: Part 1 - Stroll and Groove 🏝🗽🥾🎒
+ # VRWanderWorld 🏝🗽🥾🎒
 
-<img src ="./assets/banner1.png" alt="Ramble with Rami Banner" width="100%"/>
+<img src ="./assets/banner1.png" alt="VRWanderWorld" width="100%"/>
 
 Welcome to Stroll & Groove, an immersive platform that allows you to virtually experience walking through different cities around the world while enjoying local sounds and music. 🌍🎧
 
 ## Project Overview
 
-Stroll & Groove is a project that aims to provide users with an engaging and interactive way to explore cities on foot. By leveraging street view technology and curated audio content, users can embark on virtual walks through various cities, experiencing the sights, sounds, and atmosphere of different locations.
+VRWanderWorld is a project that aims to provide users with an engaging and interactive way to explore cities on foot. By leveraging street view technology and curated audio content, users can embark on virtual walks through various cities, experiencing the sights, sounds, and atmosphere of different locations.
 
 ## Features
 
