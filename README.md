@@ -2,7 +2,7 @@
 
 <img src ="./assets/banner1.png" alt="VRWanderWorld" width="100%"/>
 
-Welcome to Stroll & Groove, an immersive platform that allows you to virtually experience walking through different cities around the world while enjoying local sounds and music. 🌍🎧
+Welcome to VRWanderWorld, an immersive platform that allows you to virtually experience walking through different cities around the world while enjoying local sounds and music. 🌍🎧
 
 ## Project Overview
 
